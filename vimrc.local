@@ -1,0 +1,6 @@
+	set term=xterm-256color
+	set background=light
+	set background=dark
+	set number
+	set tabstop=4
+	color brogrammer
