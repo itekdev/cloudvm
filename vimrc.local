@@ -3,5 +3,5 @@
 	set background=dark
 	set number
 	set tabstop=4
-	colorscheme brogrammer
+	# colorscheme brogrammer
 	colorscheme gruvbox
